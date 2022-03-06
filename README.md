@@ -1,6 +1,6 @@
-# calculator
-# General calculator
-## Language
-~HTML
-~CSS
-~JavaScript
+
+## General calculator
+### Language
+-HTML
+-CSS
+-JavaScript
